@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\SquareExercise\SquareExercise\bin\Debug\netcoreapp3.1\SquareExercise.exe
+F:\GrandCircus\C#\SquareExercise\SquareExercise\bin\Debug\netcoreapp3.1\SquareExercise.deps.json
+F:\GrandCircus\C#\SquareExercise\SquareExercise\bin\Debug\netcoreapp3.1\SquareExercise.runtimeconfig.json
+F:\GrandCircus\C#\SquareExercise\SquareExercise\bin\Debug\netcoreapp3.1\SquareExercise.runtimeconfig.dev.json
+F:\GrandCircus\C#\SquareExercise\SquareExercise\bin\Debug\netcoreapp3.1\SquareExercise.dll
+F:\GrandCircus\C#\SquareExercise\SquareExercise\bin\Debug\netcoreapp3.1\SquareExercise.pdb
+F:\GrandCircus\C#\SquareExercise\SquareExercise\obj\Debug\netcoreapp3.1\SquareExercise.csprojAssemblyReference.cache
+F:\GrandCircus\C#\SquareExercise\SquareExercise\obj\Debug\netcoreapp3.1\SquareExercise.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\SquareExercise\SquareExercise\obj\Debug\netcoreapp3.1\SquareExercise.AssemblyInfo.cs
+F:\GrandCircus\C#\SquareExercise\SquareExercise\obj\Debug\netcoreapp3.1\SquareExercise.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\SquareExercise\SquareExercise\obj\Debug\netcoreapp3.1\SquareExercise.dll
+F:\GrandCircus\C#\SquareExercise\SquareExercise\obj\Debug\netcoreapp3.1\SquareExercise.pdb
+F:\GrandCircus\C#\SquareExercise\SquareExercise\obj\Debug\netcoreapp3.1\SquareExercise.genruntimeconfig.cache
